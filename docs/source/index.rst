@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Ko66 - Nền Tảng Cá Cược Trực Tuyến Uy Tín và Chất Lượng - ko66.black
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Ko66 <https://ko66.black/>`_ - nhà cái số 1 Châu Á với chất lượng dịch vụ và kho tàng game khổng lồ. Với giao diện thân thiện, dễ sử dụng và hệ thống bảo mật cao, Ko66 đảm bảo mọi giao dịch và thông tin cá nhân của người chơi luôn được bảo vệ tốt nhất. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Bên cạnh đó, Ko66 còn nổi bật với các chương trình khuyến mãi hấp dẫn, dịch vụ chăm sóc khách hàng chuyên nghiệp và đội ngũ hỗ trợ tận tâm 24/7, giúp người chơi giải đáp mọi thắc mắc một cách nhanh chóng và hiệu quả. Ko66 thực sự là một lựa chọn hoàn hảo cho những ai yêu thích cá cược trực tuyến và muốn tìm kiếm một sân chơi công bằng, minh bạch và an toàn.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 850 Đ. Quang Trung, Phú Lâm, Hà Đông, Hà Nội, Việt Nam. 
 
-Contents
---------
+Phone: 0942250017. 
 
-.. toctree::
+Email: ko66black@gmail.com. 
 
-   usage
-   api
+Website: https://ko66.black/
+
+#ko66 #nhacaiko66 #trangchuko66 #dangkyko66 #linkko66
